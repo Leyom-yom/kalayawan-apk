@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Kalayawan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/kalay_green</item>
+        <item name="colorPrimaryVariant">@color/kalay_green_dark</item>
+        <item name="android:statusBarColor">@color/kalay_green</item>
+        <item name="android:windowBackground">@color/kalay_bg</item>
+    </style>
+</resources>
